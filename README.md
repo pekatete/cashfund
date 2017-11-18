@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![One Page Wonder Preview](https://startbootstrap.com/assets/img/templates/one-page-wonder.jpg)](https://blackrockdigital.github.io/startbootstrap-one-page-wonder/)
+[![One Page Wonder Preview](https://startbootstrap.com/assets/img/templates/one-page-wonder.jpg)](https://pekatete.github.io/cashfund/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-one-page-wonder/)**
+**[View Live Preview](https://pekatete.github.io/cashfund/)**
 
 ## Status
 
