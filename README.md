@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![One Page Wonder Preview](https://startbootstrap.com/assets/img/templates/one-page-wonder.jpg)](https://pekatete.github.io/cashfund/)
+[![One Page Wonder Preview](https://pekatete.github.io/cashfund/cashfundpreview.png)](https://pekatete.github.io/cashfund/)
 
 **[View Live Preview](https://pekatete.github.io/cashfund/)**
 
